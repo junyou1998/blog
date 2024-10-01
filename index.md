@@ -16,10 +16,13 @@ hero:
 
 features:
   - title: Feature A
+    icon: 🛠️
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /markdown-examples
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+dsafndlkfas
